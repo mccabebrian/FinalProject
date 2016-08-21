@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuildItBiggerAndroidLib</string>
+    <string name="joke_placeholder">knock knock, no jokes :(</string>
+</resources>

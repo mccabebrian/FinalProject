@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuildItBiggerApp/BuildItBiggerApp.iml" filepath="$PROJECT_DIR$/BuildItBiggerApp/BuildItBiggerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builditbiggerandroidlib/Builditbiggerandroidlib.iml" filepath="$PROJECT_DIR$/Builditbiggerandroidlib/Builditbiggerandroidlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joketellinglib/joketellinglib.iml" filepath="$PROJECT_DIR$/joketellinglib/joketellinglib.iml" />
+    </modules>
+  </component>
+</project>
