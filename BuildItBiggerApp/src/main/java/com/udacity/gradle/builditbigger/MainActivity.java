@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
   public void tellJoke(View view) {
     Intent intent = new Intent(getApplication(), brianm.builditbiggerandroidlib.MainActivity.class);
-    intent.putExtra(JOKE_KEY, JokeManager.getResponse());
+    intent.putExtra(JOKE_KEY, JokeManager.getResponse(this));
     startActivity(intent);
   }
 }
